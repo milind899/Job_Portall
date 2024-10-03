@@ -1,0 +1,22 @@
+Google|2000000|Software Engineer|Java, Python, C++
+Apple|2500000|iOS Developer|Swift, Objective-C
+Microsoft|2200000|Backend Developer|Java, .NET, SQL
+TCS|800000|System Analyst|Java, C#, SQL
+Infosys|1800000|Data Scientist|Python, Machine Learning, SQL
+Wipro|1600000|DevOps Engineer|AWS, Docker, Kubernetes
+Cognizant|1400000|Front-end Developer|HTML, CSS, JavaScript
+Accenture|2000000|AI Engineer|Python, TensorFlow, NLP
+HCL|1900000|Blockchain Developer|Solidity, Ethereum
+IBM|2300000|Cloud Architect|AWS, GCP, Azure
+Tech Mahindra|1700000|Network Engineer|Cisco, Networking
+Capgemini|2100000|Cybersecurity Analyst|Penetration Testing, Firewalls
+L&T Infotech|1550000|Business Analyst|SQL, Agile
+Oracle|2400000|Database Administrator|Oracle, PL/SQL
+Amazon|2800000|Cloud Solutions Engineer|AWS, Docker, Microservices
+Flipkart|1850000|eCommerce Product Manager|Agile, UI/UX
+Paytm|1600000|Mobile App Developer|Android, Kotlin, Firebase
+Ola|1750000|Data Analyst|Python, SQL, Data Visualization
+Swiggy|1650000|Logistics Analyst|Operations, Data Science
+Zomato|1600000|Marketing Specialist|SEO, Digital Marketing
+Reliance|1500000|Product Designer|UX/UI, Figma
+xyz|10000|Nil|Nil
